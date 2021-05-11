@@ -1,0 +1,77 @@
+[33mcommit b8f4b9eeba595d67db70c46e5e52aac21ad7ca2b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 21:12:29 2021 +0700
+
+    update chatbotController
+
+[33mcommit f2ebd6edf9bf1c633a62f202a3a23b70638a3356[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 21:10:10 2021 +0700
+
+    update chatbotController
+
+[33mcommit 0401cbcffd535a21947d3bedee3e64a0069a4f78[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 21:02:50 2021 +0700
+
+    update chatbotController
+
+[33mcommit e7089f78aac29d4ca333c458c8c95054aa0c012b[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 20:32:34 2021 +0700
+
+    update chatbotController
+
+[33mcommit 3fd45ff59fe5a10e3be7ffe62d729283d1c14802[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 20:25:12 2021 +0700
+
+    fix controller
+
+[33mcommit 9ceedeb6c06c341a7fdfea10bfdb22805f867d1a[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 20:21:14 2021 +0700
+
+    update
+
+[33mcommit 173021bd65371a4f9b2d35c5e9ab59884b734750[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 19:46:19 2021 +0700
+
+    add postWebhook
+
+[33mcommit 578f68c41e14205fde8796a1551c25fa6dd952b3[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 17:41:52 2021 +0700
+
+    setup webhook
+
+[33mcommit 5dd8d3d1ff80321ab89a440712b9428a7d13259e[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 15:45:26 2021 +0700
+
+    fix deploy
+
+[33mcommit 3019ea53da37f73bc39a798a4dec326eb2b65b42[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 15:43:13 2021 +0700
+
+    add Procfile
+
+[33mcommit cc19f6385ff50a52ba2d6f9122a733f4eeb66b8d[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 15:13:30 2021 +0700
+
+    add Procfile
+
+[33mcommit 6b69bf76a7ba7e47b5aa9c729ee0515d8ba1b468[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 15:02:59 2021 +0700
+
+    add Procfile
+
+[33mcommit 5c34bebb4b0620bdd176470c67f0607b0f8b46d6[m
+Author: Rakha Fadhilah <rakha.1243@gmail.com>
+Date:   Sun May 9 14:47:23 2021 +0700
+
+    first commit
