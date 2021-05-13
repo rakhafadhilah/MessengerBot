@@ -1,5 +1,21 @@
 # MessengerBot
 
+# Try Live Bot
+
+You can try this bot live on heroku server. But you have to login to Facebook using this testing bout account.
+
+visit this website
+
+```sh
+https://messenger-bot-tech-test.herokuapp.com/
+```
+
+and log in to facebook using this account:
+
+```sh
+email : cobapringles@gmail.com
+pass  : pringlesmantap
+```
 
 ## Introduction
 
